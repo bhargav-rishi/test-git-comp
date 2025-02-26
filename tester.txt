@@ -3,3 +3,5 @@ This is a test line
 Another test line
 
 i made a change
+
+#Adding a change using Git GUI
